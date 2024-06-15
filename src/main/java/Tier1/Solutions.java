@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Solutions {
 
     public static void main(String[] args) {
-        StrangeSplittings();
+        turtleAndPiggyArePlayingAGame();
     }
 
     public static void StrangeSplittings() {
@@ -55,6 +55,27 @@ public class Solutions {
             } else {
                 System.out.println("NO");
             }
+        }
+    }
+
+    public static void turtleAndPiggyArePlayingAGame() {
+        Scanner sc = new Scanner(System.in);
+        int t = sc.nextInt();
+
+        for (int i = 0; i < t; i++) {
+            sc.nextInt();
+            int x = sc.nextInt();
+            int score = 0;
+            while (x != 1) {
+                if (x % 2 == 1) {
+                    x -=1;
+                }
+
+                x /= 2;
+                score++;
+            }
+
+            System.out.println(score);
         }
     }
 }
