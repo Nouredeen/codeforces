@@ -18,3 +18,4 @@
   - Solve date: 14/6/2024
   - Submissions needed: 1
   - Notes: I came up with the solution randomly, I have no tangible proof of why it works.
+  - Notes (Update): I now understand why it works :D.
