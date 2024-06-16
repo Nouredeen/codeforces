@@ -2,7 +2,7 @@
 
 ## Tears
 
-- Tier 1: 0-1000
+- [Tier 1: 0-1000](https://github.com/Nouredeen/codeforces?tab=readme-ov-file#tier-1)
 
 ## ProblemSet
 
