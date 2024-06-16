@@ -1,6 +1,8 @@
 # Guide
 
-## Tears
+## Tiers
+
+Tiers are seperated by rating accordingly (I made this tierlist according to my own skills):
 
 - [Tier 1: 0-1000](https://github.com/Nouredeen/codeforces?tab=readme-ov-file#tier-1)
 
