@@ -1,5 +1,7 @@
 # Guide
 
+#### Note: I stopped updating this repo due to how time consuming it was, if you want to view my submissions, visit my [CodeForces Account](https://codeforces.com/profile/bonesvalley)
+
 ## Tiers
 
 Tiers are seperated by rating accordingly (I made this tierlist according to my own skills):
